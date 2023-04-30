@@ -5,4 +5,8 @@ public class ContactPage {
     //twitter info
 
     //IG info
+
+    //YouTube info
+
+    //email
 }
